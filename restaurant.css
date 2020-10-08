@@ -1,0 +1,10 @@
+h1{
+    color:red;
+    font-size:375%;
+    text-decoration: underline wavy red;
+}
+
+body{
+    background-color:orange;
+    border:double;
+}
